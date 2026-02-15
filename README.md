@@ -78,6 +78,7 @@ Fully automated deployment with zero manual intervention.
 ├── message.sql
 ├── templates/
 │   └── index.html
+|── screenshots
 └── README.md
 ```
 
