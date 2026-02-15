@@ -3,7 +3,7 @@ pipeline{
     stages{
         stage('Clone repo'){
             steps{
-                git branch: 'main', url: 'https://github.com/anjalihks/Two-Tier-Flask-Application-on=AWS-EC2.git'
+                git branch: 'main', url: 'https://github.com/anjalihks/two-tier-flask-app-ec2.git'
             }
         }
         stage('Build image'){
