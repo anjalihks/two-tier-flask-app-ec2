@@ -139,7 +139,7 @@ http://<ec2-public-ip>:5000
 
 
 
-### Docker Containers Runnung
+### Docker Containers Running
 
 <img width="1920" height="948" alt="Screenshot (171)" src="https://github.com/user-attachments/assets/d9acd52a-cb66-4d90-8d3f-35e3e9f71980" />
 
@@ -151,6 +151,7 @@ http://<ec2-public-ip>:5000
 
 
 ---
+
 
 ## 📈 Future Improvements
 
